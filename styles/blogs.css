@@ -1,0 +1,18 @@
+.sk{
+    h2{
+        text-align: center;
+        color: blueviolet;
+        
+    }
+    p{
+        color: blue;
+        /* font-style: italic; */
+       
+    }
+    background-color: aquamarine;
+    border-radius: 5px;
+    ol{
+        background-color: bisque;
+        font-weight: 400;
+    }
+}
